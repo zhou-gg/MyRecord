@@ -1,5 +1,21 @@
 # java的类
 
+## Java.util
+
+### Arrays
+
+> deepToString();
+
+## Java.lang
+
+### Math
+
+> abs();`返回参数的绝对值`
+
+### Integer
+
+> Integer .toBinaryString(int i);`返回二进制字符串`
+
 ## Java.io
 
 ### Interface Serializable   标记接口 
